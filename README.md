@@ -7,9 +7,9 @@ Phiên bản cải tiến (tùy chỉnh + thêm tiếng Việt), dựa trên mã
 Hệ thống Online Judge này bao gồm 3 module:
 - Judger: https://github.com/luyencode/Judger ([Python wrapper](https://github.com/luyencode/JudgeServer))
 - Web Backend: https://github.com/luyencode/OnlineJudge
-- Web Frontend: https://github.com/luyencode/OnlineJudgeFE
+- Web Frontend: https://github.com/Thanhdev394/OnlineJudgeFE
 
-Các module trên đều được đóng gói Docker và đã đẩy lên Docker Hub. Trong trường hợp cần thiết, bạn có thể sửa từng thành phần!
+Hai module Backend và Judger trên đều được đóng gói Docker và đã đẩy lên Docker Hub. Trong trường hợp cần thiết, bạn có thể sửa từng thành phần!
 
 ### Cài đặt trên máy Linux
 
@@ -30,7 +30,7 @@ Các module trên đều được đóng gói Docker và đã đẩy lên Docker
 3. Clone repo
 
     ```bash
-    git clone -b 2.0 https://github.com/luyencode/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy
+    git clone -b 2.0 https://github.com/Thanhdev394/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy
     ```
 
 4. Khởi động
